@@ -7,6 +7,16 @@
 - 作者：方始
 - 反馈：3930446985@qq.com
 
+## 下载
+
+- **最新版本**：[GitHub Releases / Latest](https://github.com/WinterKanon/FangMusic/releases/latest)
+- **全部版本**：[GitHub Releases](https://github.com/WinterKanon/FangMusic/releases)
+
+进入 Releases 页面后，在对应版本的 **Assets** 中下载 `.apk` 文件安装。
+APK 不放在源码仓库里，避免仓库体积过大；每个版本会附带更新说明与安装包。
+
+> 如果 Releases 页面暂时为空，说明对应版本安装包还未上传。
+
 ## 功能
 
 - 本地音乐扫描与歌曲库管理（所选文件夹、下拉刷新、文件夹移除）
